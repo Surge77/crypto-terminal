@@ -1,0 +1,7 @@
+# CryptoNexus - Crypto Intelligence Platform
+User-agent: *
+Allow: /
+
+Disallow: /api/
+
+Sitemap: https://cryptonexus.vercel.app/sitemap.xml
